@@ -1,0 +1,28 @@
+var classprimo_1_1burner_1_1_joliet_volume_props =
+[
+    [ "~JolietVolumeProps", "classprimo_1_1burner_1_1_joliet_volume_props.html#a075b3cec809a950ddd9cf585ad7b1a8e", null ],
+    [ "abstractFile", "classprimo_1_1burner_1_1_joliet_volume_props.html#aa9ba5a132fee7eb0bd05cb407de784e5", null ],
+    [ "application", "classprimo_1_1burner_1_1_joliet_volume_props.html#a8c6ed0cda8ef3c92d46747aea18dd06f", null ],
+    [ "bibliographicFile", "classprimo_1_1burner_1_1_joliet_volume_props.html#adced545a7ae398f3a40ff09f4a108e51", null ],
+    [ "copyrightFile", "classprimo_1_1burner_1_1_joliet_volume_props.html#a5d2fa3b15e4f6a150fc5b5e1a69db164", null ],
+    [ "dataPreparer", "classprimo_1_1burner_1_1_joliet_volume_props.html#ae114cd86997ad398bff5c4c681d8a34f", null ],
+    [ "isDotAppendedToNames", "classprimo_1_1burner_1_1_joliet_volume_props.html#a9c647b41c0897b2e54cee4c5e84cafb2", null ],
+    [ "isVersionAppendedToNames", "classprimo_1_1burner_1_1_joliet_volume_props.html#ae5b5a4b9146e969aa26de69ecf55fadb", null ],
+    [ "publisher", "classprimo_1_1burner_1_1_joliet_volume_props.html#a1bac04439b75675e35a865fe679f12d1", null ],
+    [ "setAbstractFile", "classprimo_1_1burner_1_1_joliet_volume_props.html#a12914dcd00a658f5d7b2566e23c58c20", null ],
+    [ "setApplication", "classprimo_1_1burner_1_1_joliet_volume_props.html#a98bbae0e7a4028bb960113b84eed7cb5", null ],
+    [ "setBibliographicFile", "classprimo_1_1burner_1_1_joliet_volume_props.html#a78cb541edc522eaa14e699ac74875560", null ],
+    [ "setCopyrightFile", "classprimo_1_1burner_1_1_joliet_volume_props.html#a7e7574043044d70f6baebafaf0773dcd", null ],
+    [ "setDataPreparer", "classprimo_1_1burner_1_1_joliet_volume_props.html#aa0536bfea0a0249782882dfcf1031649", null ],
+    [ "setDotAppendedToNames", "classprimo_1_1burner_1_1_joliet_volume_props.html#a621ddbb4fc3872b4ead3d9aab33673cb", null ],
+    [ "setPublisher", "classprimo_1_1burner_1_1_joliet_volume_props.html#ab247d065fd145d4d8b973f5e26c74616", null ],
+    [ "setSystemID", "classprimo_1_1burner_1_1_joliet_volume_props.html#a3830543e4e653721a57ee3690fb236f2", null ],
+    [ "setVersionAppendedToNames", "classprimo_1_1burner_1_1_joliet_volume_props.html#a963756dd2b0f7ca507ab6bfbfc4c6436", null ],
+    [ "setVolumeCreationTime", "classprimo_1_1burner_1_1_joliet_volume_props.html#aab7ddd9c84921867d572c6baeea8047e", null ],
+    [ "setVolumeLabel", "classprimo_1_1burner_1_1_joliet_volume_props.html#a75cffc45dbaa15ea418d51174f7cb800", null ],
+    [ "setVolumeSet", "classprimo_1_1burner_1_1_joliet_volume_props.html#a22286e4433ca64c83d2f04250ff04445", null ],
+    [ "systemID", "classprimo_1_1burner_1_1_joliet_volume_props.html#aafd12f13e89ae87926b1de2b4f1490b8", null ],
+    [ "volumeCreationTime", "classprimo_1_1burner_1_1_joliet_volume_props.html#aec56845659dc77f025959c22b984f8ab", null ],
+    [ "volumeLabel", "classprimo_1_1burner_1_1_joliet_volume_props.html#a88d4f93bc3400cea8035036c28dc1625", null ],
+    [ "volumeSet", "classprimo_1_1burner_1_1_joliet_volume_props.html#a8be7ad7ef6b08e4e488ff3ba48328849", null ]
+];

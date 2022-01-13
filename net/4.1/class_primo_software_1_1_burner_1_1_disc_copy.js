@@ -1,0 +1,26 @@
+var class_primo_software_1_1_burner_1_1_disc_copy =
+[
+    [ "DiscCopy", "class_primo_software_1_1_burner_1_1_disc_copy.html#a1f77aee3e7615625d5065cc0c4f8b5c3", null ],
+    [ "CopyBD", "class_primo_software_1_1_burner_1_1_disc_copy.html#a1ca667898669bc5cbfac7b6dd69a6cb8", null ],
+    [ "CopyBD", "class_primo_software_1_1_burner_1_1_disc_copy.html#ad351626849eddbc156fe493d8d2f11b4", null ],
+    [ "CopyCD", "class_primo_software_1_1_burner_1_1_disc_copy.html#a81b2a2409c38bb0448834f46b8358484", null ],
+    [ "CopyCD", "class_primo_software_1_1_burner_1_1_disc_copy.html#ab11dc1a7065c675f975a813a5f570123", null ],
+    [ "CopyDVD", "class_primo_software_1_1_burner_1_1_disc_copy.html#a248f8567895d14d7c6cbb97906abff09", null ],
+    [ "CopyDVD", "class_primo_software_1_1_burner_1_1_disc_copy.html#a4406646644be15116a06b554eef90d72", null ],
+    [ "CreateImageFromBD", "class_primo_software_1_1_burner_1_1_disc_copy.html#a79fa3a4173ce64027e5ebe76bdae7b37", null ],
+    [ "CreateImageFromCD", "class_primo_software_1_1_burner_1_1_disc_copy.html#a61b6c6130e9687dbdf259b1c538572c7", null ],
+    [ "CreateImageFromCD", "class_primo_software_1_1_burner_1_1_disc_copy.html#a62dab21799e63daa44362183da8bf017", null ],
+    [ "CreateImageFromDVD", "class_primo_software_1_1_burner_1_1_disc_copy.html#a589225b3970ea96fb020ca2a8103d2b7", null ],
+    [ "WriteImageToBD", "class_primo_software_1_1_burner_1_1_disc_copy.html#ad044277e78a27657e5ec8bccb787abbc", null ],
+    [ "WriteImageToCD", "class_primo_software_1_1_burner_1_1_disc_copy.html#ae86c04f84c49311b1e80416b306205ad", null ],
+    [ "WriteImageToCD", "class_primo_software_1_1_burner_1_1_disc_copy.html#a542aece4643dc5cf310123cc51ca1f6e", null ],
+    [ "WriteImageToDVD", "class_primo_software_1_1_burner_1_1_disc_copy.html#ada151cf8f6ee80cee52141ab62bb132f", null ],
+    [ "DeleteImageAfterBurn", "class_primo_software_1_1_burner_1_1_disc_copy.html#ac018f22a82af9220e1d16c8d89e596dc", null ],
+    [ "Error", "class_primo_software_1_1_burner_1_1_disc_copy.html#a3eed4cadd6ade57fda1bc92ffb56e918", null ],
+    [ "ErrorDevice", "class_primo_software_1_1_burner_1_1_disc_copy.html#acd69fde962783625b790b0adeefe0ece", null ],
+    [ "SimulateWrite", "class_primo_software_1_1_burner_1_1_disc_copy.html#a2e0f4ea4f1bb94c7008708d19c622b3c", null ],
+    [ "OnContinueCopy", "class_primo_software_1_1_burner_1_1_disc_copy.html#a461de5ab64af1aa3a86db78908e20152", null ],
+    [ "OnProgress", "class_primo_software_1_1_burner_1_1_disc_copy.html#a9f876e06772125e52345da89ee29278a", null ],
+    [ "OnStatus", "class_primo_software_1_1_burner_1_1_disc_copy.html#a3c081f640428d61cd96bc2247d466623", null ],
+    [ "OnTrackStatus", "class_primo_software_1_1_burner_1_1_disc_copy.html#a3c9ab0676b33d721f8135f75377f3551", null ]
+];

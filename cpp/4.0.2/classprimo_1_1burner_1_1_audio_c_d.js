@@ -1,0 +1,28 @@
+var classprimo_1_1burner_1_1_audio_c_d =
+[
+    [ "audioDecodingMethod", "classprimo_1_1burner_1_1_audio_c_d.html#a51539020ee842c4f72d52d348edaf3e1", null ],
+    [ "audioInputs", "classprimo_1_1burner_1_1_audio_c_d.html#a08891acaf55bc9d538536133b8e9dfd0", null ],
+    [ "callback", "classprimo_1_1burner_1_1_audio_c_d.html#a19cc61743056e71bf254b0e0e665bdef", null ],
+    [ "cdSession", "classprimo_1_1burner_1_1_audio_c_d.html#ab56cbe0978a67b25d076f4fe2aeff5d6", null ],
+    [ "cdText", "classprimo_1_1burner_1_1_audio_c_d.html#abfbf272127617f9a6aff86793e114d90", null ],
+    [ "createCDSession", "classprimo_1_1burner_1_1_audio_c_d.html#a6ab95c9fb34c1a13bc92bcfde7fbfe06", null ],
+    [ "device", "classprimo_1_1burner_1_1_audio_c_d.html#a8ee4937704ff4b40675a8a3b6ef782e8", null ],
+    [ "error", "classprimo_1_1burner_1_1_audio_c_d.html#a47d36d1c07e15cd2d5bb67a108f7475c", null ],
+    [ "errorInput", "classprimo_1_1burner_1_1_audio_c_d.html#af261b0307101b50bd37e824ae375372f", null ],
+    [ "inputLength", "classprimo_1_1burner_1_1_audio_c_d.html#a4e96744c01b3c0fcfb8f954db1373b22", null ],
+    [ "isCloseDisc", "classprimo_1_1burner_1_1_audio_c_d.html#a7ccbf7796da420d15fc8a193090435e8", null ],
+    [ "readBlocksFromCD", "classprimo_1_1burner_1_1_audio_c_d.html#a74888c9cace3604667f39b54536e4402", null ],
+    [ "readTrackFromCD", "classprimo_1_1burner_1_1_audio_c_d.html#a28f3810b6e32646bebe68fa5baf95f3f", null ],
+    [ "sessionLength", "classprimo_1_1burner_1_1_audio_c_d.html#a5f9cf4dbc874ca62b2ce071755661d0d", null ],
+    [ "setAudioDecodingMethod", "classprimo_1_1burner_1_1_audio_c_d.html#abcab2048218cdac13eb7e66827a711d7", null ],
+    [ "setCallback", "classprimo_1_1burner_1_1_audio_c_d.html#a25ac2df33bacf00b54ef2d655a9c058a", null ],
+    [ "setCDSession", "classprimo_1_1burner_1_1_audio_c_d.html#a9202ab647acc06c9978130c178f5956a", null ],
+    [ "setCDText", "classprimo_1_1burner_1_1_audio_c_d.html#a6a65878b879e435f70584b7df5844143", null ],
+    [ "setCloseDisc", "classprimo_1_1burner_1_1_audio_c_d.html#aefc725f82154cf45b4b26f45106f006b", null ],
+    [ "setDevice", "classprimo_1_1burner_1_1_audio_c_d.html#a5e139452c9839dc21cc877bc9a338c2b", null ],
+    [ "setSimulateBurn", "classprimo_1_1burner_1_1_audio_c_d.html#aa17f8f56db919aa4a88606414e15ace7", null ],
+    [ "setWriteMethod", "classprimo_1_1burner_1_1_audio_c_d.html#a3466e130228480cae2d52039b7912c31", null ],
+    [ "simulateBurn", "classprimo_1_1burner_1_1_audio_c_d.html#a370b1e2efc842bdb122e1ab877240769", null ],
+    [ "writeMethod", "classprimo_1_1burner_1_1_audio_c_d.html#a11b36cbd0edd31abf2a523836af179a2", null ],
+    [ "writeToCD", "classprimo_1_1burner_1_1_audio_c_d.html#ac122683fc8bdb00a95f1ecf186a4e900", null ]
+];

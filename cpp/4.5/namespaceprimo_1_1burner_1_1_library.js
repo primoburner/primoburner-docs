@@ -1,0 +1,28 @@
+var namespaceprimo_1_1burner_1_1_library =
+[
+    [ "createAudioCD", "namespaceprimo_1_1burner_1_1_library.html#a4c46783d0b9cc0ae413fb9acd55ce1d2", null ],
+    [ "createAudioInput", "namespaceprimo_1_1burner_1_1_library.html#a324441075475a7ca8431eb0e5237abd0", null ],
+    [ "createAudioOutput", "namespaceprimo_1_1burner_1_1_library.html#a7692c99441be5b987c01ff21bd0d0d3e", null ],
+    [ "createBlockDevice", "namespaceprimo_1_1burner_1_1_library.html#aaf9136de4a48ec12bda7b4169471b8bb", null ],
+    [ "createCDMode", "namespaceprimo_1_1burner_1_1_library.html#a86e017eb9996ab056681361c4c1c8325", null ],
+    [ "createCDSector", "namespaceprimo_1_1burner_1_1_library.html#a5d17196a64bfdfdf1ab5dca72d318703", null ],
+    [ "createCDSession", "namespaceprimo_1_1burner_1_1_library.html#a659414877450ef4d005a62011a6e348e", null ],
+    [ "createCDText", "namespaceprimo_1_1burner_1_1_library.html#ad6d104877e2cff191ccd1cd2c9e7752a", null ],
+    [ "createCDTrack", "namespaceprimo_1_1burner_1_1_library.html#a1a6b6aa6e97ecb3e6dfe163c3a17743c", null ],
+    [ "createDataDisc", "namespaceprimo_1_1burner_1_1_library.html#a2d8243b5fb273102d35b10595f1223eb", null ],
+    [ "createDataFile", "namespaceprimo_1_1burner_1_1_library.html#a5fb0d1cb0454ef800d150938f0038f21", null ],
+    [ "createDiscArchive", "namespaceprimo_1_1burner_1_1_library.html#a738c1e180e519c2458677d260166fb30", null ],
+    [ "createDiscCopy", "namespaceprimo_1_1burner_1_1_library.html#a59b0c0cbc1cc7a1227517dee27187ffd", null ],
+    [ "createEngine", "namespaceprimo_1_1burner_1_1_library.html#afa0d3f3fee837ecb987eec30ce5bbf66", null ],
+    [ "createLicenseInfo", "namespaceprimo_1_1burner_1_1_library.html#a0ccd8738c3057a2bba896ba196533d00", null ],
+    [ "createPcmAudioFormat", "namespaceprimo_1_1burner_1_1_library.html#ab5e432430d838677d1fa2fd4aa9aa648", null ],
+    [ "createRawTocTrack", "namespaceprimo_1_1burner_1_1_library.html#a6e48601c9148a3935ba26dbb88abaf14", null ],
+    [ "createTrackBuffer", "namespaceprimo_1_1burner_1_1_library.html#a2035bdf79df25b55b60c763bd0541828", null ],
+    [ "createUdfExtent", "namespaceprimo_1_1burner_1_1_library.html#a480ff0ec7cd16d325b26172665d09562", null ],
+    [ "createVideoDVD", "namespaceprimo_1_1burner_1_1_library.html#ac2cf04b4fdac49da3116a9457bf538c9", null ],
+    [ "deviceIndexToDriveLetter", "namespaceprimo_1_1burner_1_1_library.html#a1c4b19241e9247f1003a12a83f6de6f2", null ],
+    [ "disableTraceLog", "namespaceprimo_1_1burner_1_1_library.html#a7a67daf9533466dd8b526fae1d8987fa", null ],
+    [ "driveLetterToDeviceIndex", "namespaceprimo_1_1burner_1_1_library.html#adf823bb4a076b9289a6df70da075cda3", null ],
+    [ "enableTraceLog", "namespaceprimo_1_1burner_1_1_library.html#a71c61dc5077d5d6ef6c75b75cdb37024", null ],
+    [ "setLicense", "namespaceprimo_1_1burner_1_1_library.html#a074aee940f683df4e57a6deb94520835", null ]
+];

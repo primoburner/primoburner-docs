@@ -1,0 +1,25 @@
+var classprimo_1_1burner_1_1_track_info_ex =
+[
+    [ "~TrackInfoEx", "classprimo_1_1burner_1_1_track_info_ex.html#a7e84f53c1f91ce672be1d9384a639097", null ],
+    [ "address", "classprimo_1_1burner_1_1_track_info_ex.html#a18dbca7dbe2ce4ddba98fa7dc8cb71ed", null ],
+    [ "freeBlocks", "classprimo_1_1burner_1_1_track_info_ex.html#a7a9ef3d7814d8bc7a9d158457d32063e", null ],
+    [ "isAudio", "classprimo_1_1burner_1_1_track_info_ex.html#adbf947d9c03c7f0f88814942daf77e09", null ],
+    [ "isBlank", "classprimo_1_1burner_1_1_track_info_ex.html#ac69852c9d2728b02dd30cb94718963ec", null ],
+    [ "isData", "classprimo_1_1burner_1_1_track_info_ex.html#a3cb87d2a07da706db8fccf0b020789bc", null ],
+    [ "isFixedPacket", "classprimo_1_1burner_1_1_track_info_ex.html#ac3794735dd255230edb31378fa096fbb", null ],
+    [ "isLRAValid", "classprimo_1_1burner_1_1_track_info_ex.html#a3f3c50c281fc727454aa70741603c616", null ],
+    [ "isNWAValid", "classprimo_1_1burner_1_1_track_info_ex.html#aa1c222dd616d3892869f2330150897d9", null ],
+    [ "isPacket", "classprimo_1_1burner_1_1_track_info_ex.html#adad7697c6ac1e15f0a9aadf359685711", null ],
+    [ "isReserved", "classprimo_1_1burner_1_1_track_info_ex.html#ab26e368371a64a8e71f1204c49b88c58", null ],
+    [ "lastLayerJumpAddress", "classprimo_1_1burner_1_1_track_info_ex.html#abf30454c6791b66a1e9a471630f92e0e", null ],
+    [ "lastRecordedAddress", "classprimo_1_1burner_1_1_track_info_ex.html#ac40e041e9e1b9519fadaf2d5afb48078", null ],
+    [ "layerJumpRecordingStatus", "classprimo_1_1burner_1_1_track_info_ex.html#a5d87bfdd59d588965abd4bf78626858d", null ],
+    [ "nextLayerJumpAddress", "classprimo_1_1burner_1_1_track_info_ex.html#a1a7e971e6cef8575f8fb00ab53cda938", null ],
+    [ "nextWritableAddress", "classprimo_1_1burner_1_1_track_info_ex.html#ac9facca9b9112df45818e374f4018ec0", null ],
+    [ "packetSize", "classprimo_1_1burner_1_1_track_info_ex.html#ac750456cb629e7979461aa8fe69e4b76", null ],
+    [ "recordedSize", "classprimo_1_1burner_1_1_track_info_ex.html#ab9eb0fd69318c7e061611e2ed41c2471", null ],
+    [ "sessionNumber", "classprimo_1_1burner_1_1_track_info_ex.html#a3792586beafd9ddc9733e4eb8961c117", null ],
+    [ "trackMode", "classprimo_1_1burner_1_1_track_info_ex.html#a51f4f020eb26ebc40de5f89a1c307612", null ],
+    [ "trackNumber", "classprimo_1_1burner_1_1_track_info_ex.html#ad773aaa1b0d2ff0263ab424cf35cac86", null ],
+    [ "trackSize", "classprimo_1_1burner_1_1_track_info_ex.html#a3bc7abfebd1a79c3aa96fd4299f54c13", null ]
+];

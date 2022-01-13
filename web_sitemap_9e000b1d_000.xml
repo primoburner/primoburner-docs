@@ -1,0 +1,5746 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--
+  <gen:info>
+    <gen:name>Google Sitemap Generator</gen:name>
+    <gen:version>1.0.0.0</gen:version>
+    <gen:date>2017-01-21T01:50:40Z</gen:date>
+  </gen:info>
+-->
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_q_sub_channel_isrc.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_0.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_14.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_i.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_track-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_y.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_n.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_udf_permissions.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_evnt.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_track.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_1.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_15.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_j.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_z.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_o.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_disc_copy_error.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/annotated.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1license_1_1_license_status_flags.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_scsi_command_sense-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_data_overwrite.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_2.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_session_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_16.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_deinterlacing_method.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_c_d_track_status_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_k.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_p.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_mode.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_3.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_l.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_archive.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_b_d_media_info.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_track_list.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_sector.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_4.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_engine.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_udf_volume_props-members.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_b_d_features-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_m.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_h265_level.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_data_file_callback.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_r.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_layout-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/dir_ca6688b10d5f233ab68b2d3c1abf2501.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_5.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_q_sub_channel.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_n.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_copy_continue_copy_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/struct_primo_software_1_1_burner_1_1_c_d_pregap.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_s.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_d_v_d_minus_media_info.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_archive_request_rename_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_toc_track_enum.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_format_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_archive_request_rename_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_c_d_text_code_page.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_6.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/_release_notes.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_vars.html</loc>
+  <lastmod>2016-01-22T19:48:59Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_o.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_t.html</loc>
+  <lastmod>2016-01-22T19:48:59Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_audio_output-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_engine-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_layer_jump_recording_status.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_7.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/_primo_license_8h.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_track_info_ex.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1error_1_1_error_info.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_cache_policy-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_p.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_features-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_u.html</loc>
+  <lastmod>2016-01-22T19:48:59Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_features.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_h264_profile.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_8.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_scsi_interface-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_func.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_v.html</loc>
+  <lastmod>2016-01-22T19:48:59Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_pcm_audio_format-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_iso_volume_props.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_a.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_archive_callback-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_9.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_data_source.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_r.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_0.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_w.html</loc>
+  <lastmod>2016-01-22T19:48:59Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_b.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_c_d_continue_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_udf_extent_list-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_copy.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_s.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/dir_4c595370b5df3250f6987bf464061e61.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_1.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_d_v_d_features-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/struct_primo_software_1_1_burner_1_1_c_d_pregap-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_c.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_enumerator.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_t.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_2.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_d.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_info-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_meta.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_u.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_engine_callback.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_scan_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_3.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_z.html</loc>
+  <lastmod>2016-01-22T19:48:59Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_iso_volume_props-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_e.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_0.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_v.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_h264_me_method.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_4.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_a.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_b_d_version.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_f.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_1.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_session_info.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_buffer_size.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_w.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_c_d_progress_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/hierarchy.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_5.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_library.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_b.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_udf_volume_props.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_text.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_merge_direction.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_2.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_copy_callback-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_audio_input-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_q_sub_channel_position-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_x.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_mode_list.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_6.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_c.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_3.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_error_facility.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_7.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_speed1x_k_b.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_d.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_4.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_audio_input_list-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_track_info-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_z.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_8.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_e.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_track_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_meta_attribute.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_5.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1_reference-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_a.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_session-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_disc_progress_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_9.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_f.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_q_sub_channel_mcn-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_6.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_b.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_c_d_text_language.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_session.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_toc-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/md__a_p_i_changes.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_raw_toc_track-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_index_list.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/dir_8478ffab88e15dcde60ec9184393dbb1.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_7.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_c.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_archive_add_file_to_layout_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/pages_0.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_meta_picture_list.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_video_d_v_d.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_10.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1_stream.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_8.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_d.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_mime_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/pages_1.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_10.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_udf_file_props-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespace_primo_software.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_9.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_e.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_output.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/pages_2.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_speed_descriptor-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_11.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_file.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_input.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_f.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_block_device.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/pages_3.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_error_info-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_0.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_track_buffer.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_block_device_open_flags.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_12.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_mode_list-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_error_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_disc_layout_error.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/pages_4.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_toc_track-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_1.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_codec_error.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_13.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_disc_copy_status.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_0.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_engine_device_change_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_2.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_track_info.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_archive-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_raw_toc_track.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_b_d_media_info-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_1.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_10.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/structprimo_1_1scsi_1_1_scsi_command_sense-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_data_disc_callback.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_3.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_q_subchannel_info_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_d_v_d_media_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_2.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_data_disc_error.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_11.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/structprimo_1_1burner_1_1_mode2_formed_subheader.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_vars.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_4.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_3.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_12.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_toc_track.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_5.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_media_sample_flags.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_0.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_4.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/dir_18ff0fdc7add38121a08e43ff1540138.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_copy_continue_copy_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_13.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/_primo_reference_8h.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_6.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_disc_file_status_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_1.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_audio_input_list.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_5.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_audio_storage.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_14.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_7.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_2.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_6.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_meta_picture.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_15.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_c_d_pregap.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/dir_9cc5dd33a3fe9cd2e703bb7fce8b9b1d.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_engine_media_change_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_8.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_text-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_3.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_7.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1error.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_speed_descriptor.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_16.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_joliet_volume_props-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_9.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_file_list-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_4.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_8.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_erase_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_17.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_track_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/dir_9664c24e6aec18380fd272b5f28340cc.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_d_v_d_minus_media_info-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_d_v_d_plus_media_info-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_h265_profile.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_5.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_udf_extent-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_9.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_track_info.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_track_buffer-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_18.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_udf_extent-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_6.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_q_sub_channel_position.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/dir_9ce36dcf9b8ddc41a1ea20ee5e016e3c.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_picture_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_speed_enum-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_audio_stream_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_disc_continue_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/events_0.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_7.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_text_item.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_meta_picture_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_8.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_udf_file_props.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_track-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_session-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_b.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_iso_volume_props-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_d_v_d_plus_media_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_9.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_mode.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_b_d_format_parameters-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1_reference.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_q_sub_channel_position-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_info.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_layout_progress_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_rotation_control_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_c.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_10.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_b_d_format_parameters.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_archive_footer_policy-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_layout_file_error_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_d_v_d_media_info.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_0.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_c_d_copy_read_method.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_c_d-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_d.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_11.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_disc_archive_error.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_enum.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_1.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_track_list-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_e.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_12.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_media_ready.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_archive_add_file_to_layout_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1scsi_1_1_scsi_interface_error.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_2.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_10.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_raw_toc.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/_primo_scsi2_8h.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_f.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_13.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_session_info-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_3.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_stream_info_enum-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/annotated.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_b_d_format_parameters-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_disc.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_11.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_cache_policy.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_g.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_14.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_func.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_4.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_12.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_h.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_15.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_0.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_b_d_features-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_5.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_disc-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_13.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/_supported_file_systems.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_b.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_continue_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_i.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_16.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_1.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_block_device_error.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1license_1_1_license_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_6.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_c_d_progress_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_copy-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_14.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_raw_point.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_c.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_j.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_17.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_2.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_7.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_layout.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_output-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_15.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_device_enum.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_engine_error.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_d.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_udf_file_props.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_k.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_18.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_3.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_video_d_v_d_error.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_8.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_c_d_track_status_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_copy_progress_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_16.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_raw_toc-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_e.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_l.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_4.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_scsi_command_sense.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_c_d.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_video_d_v_d_validation.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_9.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/dir_03a680c4876557f0a071592a5ca19325.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_layout_continue_write_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_17.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_device_callback-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_f.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_m.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_5.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1scsi_1_1_scsi_command_timeout.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/_primo_config_8h.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_18.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_a.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1error_1_1_error_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_g.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/_primo_burner_a_p_i_8h.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_n.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_layout_callback.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_6.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_generic_error.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_text.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_19.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_b.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_h.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_o.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_7.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/struct_primo_software_1_1_burner_1_1_speed1x_k_b.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_b_d_version_enum.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_b_d_format_sub_type.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_c.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_i.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_p.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_d_v_d_media_info-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_8.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_disc_status_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_archive.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_d.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_j.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_q.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_9.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_meta_picture-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_e.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_k.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_r.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_session_state.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_b_d_version_enum-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_block_device-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_metadata.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_index_list-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_f.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_l.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_s.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_sector-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_b_d_features.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_media_buffer-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_sector-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_copy_callback.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_m.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_t.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_h265_tier.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_interpolation_method.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_b.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1scsi_1_1_scsi_command_length.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_d_v_d_minus_media_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_device_enum-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_n.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_u.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/dir_36d87cb7ba843327de866b89dcaf5d0a.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_features.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_iso_volume_props.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_c.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/files_0.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_audio_channel_flags.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/dir_feede40a05a9cb2b37e7066bf1899ec7.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_alpha_compositing_mode.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_mode-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_o.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_v.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_c_d_text_item-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_archive_file_error_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_device_callback.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_d.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_data_disc_callback-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_p.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_w.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_a.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_e.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_x.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_joliet_volume_props.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_b.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_f.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_file-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/_primo_stream_8h.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_udf_file_props-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1scsi_1_1_sense_key.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_r.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_c.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_audio_c_d_error.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/struct_primo_software_1_1_burner_1_1_mode2_formed_subheader-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_g.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_track.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_track_info_ex.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/dir_e58fee6dc2fb2a0c0358403f8858e98b.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_q_sub_channel_mcn.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_d_v_d_plus_media_info.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/_release_notes.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_vars.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_s.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_z.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_block_size.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_layout_continue_write_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_q_sub_channel.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_d.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_h.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_a.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_bg_format_status.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_t.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_udf_revision.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_session_info.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_disc_file_status_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_e.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_i.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_b.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_q_sub_channel_isrc-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/globals.html</loc>
+  <lastmod>2016-01-22T19:48:59Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_device_error.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_u.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/variables_f.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_j.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_video_stream_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_b_d_format_parameters.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_color_format.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_c.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_engine_device_change_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_v.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_track_info_ex-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_video_d_v_d-members.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_q_sub_channel_mcn-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_k.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_archive-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_sub_channel_format.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_device-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_d.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_media_sample-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_prop_w.html</loc>
+  <lastmod>2016-01-22T19:49:17Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/_primo_error_8h.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_l.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_e.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_d_v_d_features.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/pages.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_m.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/classes_f.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_c_d_status_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1license_1_1_license_info.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_b.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_layout_progress_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_session.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_n.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_enum.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_engine_media_change_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_library.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_c_d_text_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_c.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_archive_file_error_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_session_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/structprimo_1_1scsi_1_1_scsi_command_sense.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_o.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_media_info.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_video_d_v_d.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_layout_file_error_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_data_write_strategy.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_d.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/variables_0.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_h264_entropy_coding_mode.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_0.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_p.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_copy.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_disc_progress_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_e.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_q_sub_channel-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/variables_1.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_pcm_flags.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_1.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_copy_track_status_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_audio_input.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_f.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/variables_2.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_block_device.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_2.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_r.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_layout_callback-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_g.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/variables_3.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_raw_toc-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_a.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/dir_dc46613c32eef1156f393f11dceb0e4e.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_3.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_s.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_boot_emulation.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_h.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_write_method.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_disc_status_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/variables_4.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_erase_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_q_sub_channel_position.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_b.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_4.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_t.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_a.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_i.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/variables_5.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_0.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_c.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/dir_1a6b613607f9f20aec463f8070b187b2.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_5.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_file_list.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_u.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_stream_sub_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_b.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/pages_0.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_b_d_version.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_media_info-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_j.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/variables_6.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_d_v_d_features.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_1.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_d.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_6.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/index.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_v.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_c.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_media_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_audio_c_d-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1license.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/_object_management.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_b.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/pages_1.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_k.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/variables_7.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_2.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_e.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_7.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_w.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_d.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_10.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_udf_volume_props.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_d_v_d_minus_media_info.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_device.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_c.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/pages_2.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_l.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_media_info.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/files.html</loc>
+  <lastmod>2016-01-22T19:48:59Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/variables_8.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_3.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enums_f.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_pcm_audio_format.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_audio_c_d_callback-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_8.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_a.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_x.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_e.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_11.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_d.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_cache_policy-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/pages_3.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_features-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_m.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_joliet_volume_props.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enums_0.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespaces.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_toc_track.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_4.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1scsi_1_1_scsi_sense.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/all_9.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_b.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_0.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_y.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_raw_toc.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/classes_f.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_12.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/pages.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_e.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1_stream-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_text-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_n.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_meta_picture_list-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/classes.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_video_stream_info.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_scsi_interface.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_5.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_c.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_speed_descriptor.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_1.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_eval_z.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_13.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_boot_props.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_f.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_o.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_continue_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_6.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_data_disc-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_d.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_2.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_toc-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_14.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_write_lead_out_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/md__a_p_i_changes.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_g.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_archive_callback.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_write_lead_in_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_p.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_q_sub_channel_format.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_copy-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_7.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_udf_extent_list.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_e.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_3.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_15.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_d_v_d_features-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_raw_toc_track.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_h.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespace_primo_software_1_1_burner.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_h264_deblocking_filter.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_data_file.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_8.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_f.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_4.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_i.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_r.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_video_d_v_d-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_boot_props-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/properties_9.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_archive_footer_size_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_audio_output.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_engine_callback-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_5.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_data_file_list.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_boot_props-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_j.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_read_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/globals_func.html</loc>
+  <lastmod>2016-01-22T19:48:59Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/hierarchy.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_s.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_archive_footer_size_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1scsi_1_1_scsi_interface.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_data_disc_status.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/struct_primo_software_1_1_burner_1_1_p_c_m_audio_format.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_6.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaces.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_device_enum_error.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_track_buffer.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_k.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_t.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/_primo_a_v_8h.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/struct_primo_software_1_1_burner_1_1_p_c_m_audio_format-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/struct_primo_software_1_1_burner_1_1_generic_error.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_speed_enum.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_7.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_l.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_stream_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_image_type_flags.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_u.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_d_v_d_plus_media_info.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_8.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_h264_pic_coding_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/_primo_burner_lib_8h.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_m.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_udf_alloc_desc_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_v.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_b.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_a.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_9.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/index.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_data_file_callback-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_n.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_q_sub_channel_isrc-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_info.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_w.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_boot_props.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_c.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/struct_primo_software_1_1_burner_1_1_generic_error-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_toc_track_enum-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_b.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/struct_primo_software_1_1_burner_1_1_mode2_formed_subheader.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_o.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_toc.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_audio_c_d_callback.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_d.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_copy_track_status_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_format_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_udf_volume_props-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_c.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_track_info_ex-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_stream_info.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_p.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/all_1a.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_copy_progress_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_b_d_version-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_e.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_stream_info_enum.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_media_profile.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_d.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_bitrate_mode.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_b_d_format_type.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_audio_decoding_method.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_joliet_volume_props-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classes.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_z.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_f.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_image_constraint_flags.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_udf_extent.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_e.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/_supported_file_systems.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1scsi_1_1_scsi_interface-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_r.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_g.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_a.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_f.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_engine.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_s.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_block_device-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_h.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_b.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_h264_direct_pred_mode.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_stream_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_read_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_t.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_copy_status_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_i.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_c.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/namespaces_0.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_u.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_j.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_d.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_library-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_q_sub_channel-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_layout-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_media_sample.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_v.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_error_info.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_k.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_e.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_audio_stream_info.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_data_file-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/nomatches.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_b_d_media_info-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions_w.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1scsi.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1error_1_1_error_facility.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_l.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/enumvalues_f.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_toc_track-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_c_d_status_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_q_sub_channel_mcn.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_meta_attribute_list-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_m.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_udf_text_encoding.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_b.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_layout_file_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_n.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_c.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/namespaces_0.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_c_d_continue_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_raw_toc_track_enum-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_write_lead_in_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_udf_extent.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_media_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_o.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_d.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_d_v_d_media_info.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_p.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_10.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_e.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_data_disc.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_mode2_block_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/dir_9467f69d5112c3dd7417dc6f75d4ab7f.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_media_buffer.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/structprimo_1_1burner_1_1_mode2_formed_subheader-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/functions_11.html</loc>
+  <lastmod>2016-01-22T19:49:13Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_10.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_format_type.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_f.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_copy_status_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_meta_attribute-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_b_d_features.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_b.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1scsi_1_1_scsi_command_direction.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_disc_status.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_r.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_11.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_g.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_meta_attribute_list.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_write_lead_out_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_cache_policy.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_data_disc_continue_event_args-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_enumerator-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_data_file_list-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_raw_toc_track-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_c.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_b_d_media_info.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_s.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_device_erase_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_12.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_audio_c_d_status.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_h.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_disc_archive_footer_policy.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_h264_me_split_mode.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_track_buffer-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_toc.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_error_info.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_mode-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_raw_toc_track_enum.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_d.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_t.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_13.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_c_d_sector.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/functions.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_i.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_10.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_e.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_c_d_copy_write_method.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_u.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_14.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_audio_input-members.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_j.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_boot_platform_i_d.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_11.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_audio_c_d.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_f.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_layout.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_v.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_15.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_engine-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_speed_descriptor-members.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_12.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_g.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_w.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_16.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/nomatches.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_l.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/struct_primo_software_1_1_burner_1_1_speed1x_k_b-members.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1burner_1_1_b_d_version-members.html</loc>
+  <lastmod>2016-01-22T19:48:55Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/search/functions_13.html</loc>
+  <lastmod>2016-01-22T19:48:54Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/classprimo_1_1codecs_1_1_metadata-members.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/namespacemembers_eval_h.html</loc>
+  <lastmod>2016-01-22T19:49:16Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1burner_1_1_c_d_text_genre_code.html</loc>
+  <lastmod>2016-01-22T19:48:56Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_q_sub_channel_isrc.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespacemembers_x.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/namespaceprimo_1_1codecs_1_1_h264_rate_control_method.html</loc>
+  <lastmod>2016-01-22T19:48:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/search/enumvalues_17.html</loc>
+  <lastmod>2016-01-22T19:49:14Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/cpp/4.6/functions_func_m.html</loc>
+  <lastmod>2016-01-22T19:48:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.primoburner.com/net/4.6/class_primo_software_1_1_burner_1_1_disc_layout_file_event_args.html</loc>
+  <lastmod>2016-01-22T19:49:15Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+</urlset>
